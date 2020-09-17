@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600337696 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\account\account.cpp
+	<iostream>
+	"account.h"
+	<string>
+
+1600337217 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\account\account.h
+	<string>
+
+1600338913 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\account\account_test.cpp
+	<gtest/gtest.h>
+	"account.h"
+
