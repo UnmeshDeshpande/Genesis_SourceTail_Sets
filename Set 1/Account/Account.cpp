@@ -27,7 +27,7 @@ int Account::getCustomerId() {
 std::string Account::getCustomerName() {
   return m_accName;
 }
-double Account::getBalance() const {
+double Account::getBalance() const{
     return m_balance;
 }
 void Account::display() {
