@@ -9,3 +9,13 @@
 	<gtest/gtest.h>
 	"box.h"
 
+1600347363 source:d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\box\box.cpp
+	<iostream>
+	"Box.h"
+
+1600347347 d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\box\box.h
+
+1600347496 source:d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\box\box_test.cpp
+	<gtest/gtest.h>
+	"box.h"
+
