@@ -9,3 +9,13 @@
 	"Colour.h"
 	<gtest/gtest.h>
 
+1600406577 source:d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\colour\colour.cpp
+	<iostream>
+	"Colour.h"
+
+1600406486 d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\colour\colour.h
+
+1600406647 source:d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\colour\colour_test.cpp
+	"Colour.h"
+	<gtest/gtest.h>
+

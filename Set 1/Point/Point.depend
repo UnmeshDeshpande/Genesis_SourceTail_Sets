@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600412507 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\point\point.cpp
+	"point.h"
+	<iostream>
+	<math.h>
+
+1600412414 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\point\point.h
+
+1600413048 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\point\point_test.cpp
+	<gtest/gtest.h>
+	"Point.h"
+
