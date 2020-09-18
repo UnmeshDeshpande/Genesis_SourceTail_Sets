@@ -23,8 +23,8 @@ m_height *= sf;
 return sf;
 }
 void Image::Resize(int nw,int nh){
-m_width ==  nw;
-m_height == nh;
+m_width =  nw;
+m_height = nh;
 }
 void Image::display(){
     std::cout<<m_x<<","<<m_y<<","<<m_width<<","<<m_height<<"\n";
