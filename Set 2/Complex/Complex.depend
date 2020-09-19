@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600492759 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\complex\complex.cpp
+	"complex.h"
+	<iostream>
+
+1600492759 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\complex\complex.h
+
+1600492970 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\complex\complex_test.cpp
+	<gtest/gtest.h>
+	"Complex.h"
+
