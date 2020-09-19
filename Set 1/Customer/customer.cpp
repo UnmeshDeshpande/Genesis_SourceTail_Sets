@@ -13,17 +13,17 @@ Customer::Customer(const Customer &c):
     m_custid(c.m_custid),m_phone(c.m_phone),m_type(c.m_type),m_custname(c.m_custname),m_balance(c.m_balance){
 
     }
-    int Customer::credit(double amount)
+    double Customer::credit(double amount)
     {
         m_balance += amount;
         return amount;
     }
-    int Customer::makecall()
+    double Customer::makecall()
     {
         std::cout<<m_phone<<"\n";
         return m_phone;
     }
-    int Customer::getbalance()
+    double Customer::getbalance()
     {
         std::cout<<m_balance<<"\n";
         return m_balance;

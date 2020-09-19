@@ -11,8 +11,8 @@ public:
     Customer();
     Customer(int,int,std::string,std::string,double);
     Customer(const Customer &);
-    int credit(double);
-    int makecall();
-    int getbalance();
+    double credit(double);
+   double makecall();
+   double getbalance();
     void display();
 };

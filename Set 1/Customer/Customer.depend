@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600496657 source:d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\customer\customer.cpp
+	<iostream>
+	"customer.h"
+
+1600496657 d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\customer\customer.h
+	<string>
+
+1600496657 source:d:\unmesh\c++ week 1\sourcetrail solutions\transfer\genesis_sourcetail_sets\set 1\customer\customer_test.cpp
+	<gtest/gtest.h>
+	"customer.h"
+
