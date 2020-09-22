@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1600679104 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\shapes.cpp
+	<iostream>
+	"triangle.h"
+	"polygon.h"
+	"shape.h"
+	<math.h>
+	"rectangle.h"
+	"shape.h"
+	"circle.h"
+
+1600679035 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\triangle.h
+	"polygon.h"
+
+1600678817 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\polygon.h
+	"shape.h"
+
+1600678760 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\shape.h
+
+1600678921 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\rectangle.h
+	"polygon.h"
+
+1600678974 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\circle.h
+	"shape.h"
+
+1600680749 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\shapes\shapestest.cpp
+	<gtest/gtest.h>
+	"triangle.h"
+	"polygon.h"
+	"shape.h"
+	<math.h>
+	"rectangle.h"
+	"circle.h"
+
