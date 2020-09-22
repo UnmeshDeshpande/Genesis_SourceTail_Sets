@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1600778848 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\customer\customer.cpp
+	"customer.h"
+	"Prepaid.h"
+	"Postpaid.h"
+	<iostream>
+
+1600777011 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\customer\customer.h
+	<string>
+	<cstdint>
+
+1600777043 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\customer\prepaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600777043 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\customer\postpaid.h
+	<string>
+	<cstdint>
+	"customer.h"
+
+1600778733 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\customer\customertest.cpp
+	<gtest/gtest.h>
+	"Postpaid.h"
+	"Prepaid.h"
+	"Customer.h"
+
