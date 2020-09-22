@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600601662 source:d:\important & private stuff\ltts\future skills\codes\embedded systems\atmega328\distance\distance.cpp
+	"distance.h"
+	<iostream>
+
+1600601341 d:\important & private stuff\ltts\future skills\codes\embedded systems\atmega328\distance\distance.h
+

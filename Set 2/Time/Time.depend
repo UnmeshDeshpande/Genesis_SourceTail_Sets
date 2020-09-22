@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600603643 source:d:\important & private stuff\ltts\genesis\time\timetest.cpp
+	"time.h"
+	<gtest/gtest.h>
+
+1600605013 d:\important & private stuff\ltts\genesis\time\time.h
+
+1600605035 source:d:\important & private stuff\ltts\genesis\time\time.cpp
+	"time.h"
+	<iostream>
+

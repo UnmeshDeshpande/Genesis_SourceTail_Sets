@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600608147 source:d:\important & private stuff\ltts\genesis\fraction\fraction.cpp
+	<iostream>
+	"Fraction.h"
+
+1600608311 d:\important & private stuff\ltts\genesis\fraction\fraction.h
+
+1600608411 source:d:\important & private stuff\ltts\genesis\fraction\fraction_test.cpp
+	<gtest/gtest.h>
+	"Fraction.h"
+
