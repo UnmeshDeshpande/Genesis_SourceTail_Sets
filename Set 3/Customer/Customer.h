@@ -10,7 +10,7 @@ enum AccountType {
 };
 
 class CustomerBase {
- protected:
+    protected:
   std::string m_custId;
   std::string m_custName;
   std::string m_phone;

@@ -14,12 +14,12 @@ CustomerBase::CustomerBase(string id,string name,string phone):
 CustomerBase::CustomerBase(const CustomerBase &ref):
     m_custId(ref.m_custId),m_custName(ref.m_custName),m_phone(ref.m_phone),m_balance(ref.m_balance){
 }
-PrepaidCustomer::PrepaidCustomer():CustomerBase(){};
+PrepaidCustomer::PrepaidCustomer():CustomerBase(){}
 PrepaidCustomer::PrepaidCustomer(string id,string name,string phone):CustomerBase(id,name,phone){
 }
 PrepaidCustomer::PrepaidCustomer(string id,string name,string phone, double balance,int bill):CustomerBase(id,name,phone,balance,bill){
 }
-PostpaidCustomer::PostpaidCustomer():CustomerBase(){};
+PostpaidCustomer::PostpaidCustomer():CustomerBase(){}
 PostpaidCustomer::PostpaidCustomer(string id,string name,string phone):CustomerBase(id,name,phone){
 }
 PostpaidCustomer::PostpaidCustomer(string id,string name,string phone, double balance,int bill):CustomerBase(id,name,phone,balance,bill){

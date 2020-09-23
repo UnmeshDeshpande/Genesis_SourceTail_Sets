@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1600834067 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\employee\employee.cpp
+	<iostream>
+	"Employee.h"
+	"Engineer.h"
+	"Trainee.h"
+	"Manager.h"
+
+1600833953 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\employee\employee.h
+
+1600833953 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\employee\engineer.h
+	"employee.h"
+
+1600833953 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\employee\trainee.h
+	"employee.h"
+
+1600833953 d:\unmesh\c++ week 1\sourcetrail solutions\set 1\employee\manager.h
+	"employee.h"
+
+1600833710 source:d:\unmesh\c++ week 1\sourcetrail solutions\set 1\employee\employeetest.cpp
+	<gtest/gtest.h>
+	"Employee.h"
+	"Manager.h"
+	"Trainee.h"
+	"Employee.h"
+
